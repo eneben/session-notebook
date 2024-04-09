@@ -2,7 +2,7 @@
 
 - **Git**: Versionierung auf Computer, die alle Änderungen sichtbar macht  
   vs.  
-  **GitHub**: hochladen von Repositorys oder Commits
+  **GitHub**: hochladen von Repositories oder Commits
 - erst lokal arbeiten und wann immer nötig, hochladen
 - kein Repo in Repo eröffnen
 
@@ -10,7 +10,7 @@
 
 - `git init` &rarr; Repo initialisieren
 - `rm -rf .git` &rarr; Repo wieder löschen
-- .gitignore-Datei erstellen, z.B. mit DS_Store
+- `.gitignore`-Datei erstellen, z.B. mit `DS_Store`
 - `git status` &rarr; Status anzeigen lassen
 - `git add <Datei>` oder `git add .` -> Änderungen stagen
 - `git commit -m "commit-message"` &rarr; Änderungen commiten
